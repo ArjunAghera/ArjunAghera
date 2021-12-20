@@ -14,7 +14,7 @@
 
 
 ```javascript
-const anmol = {
+const arjun = {
     code: ["Javascript", "Typescript", "Java"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
