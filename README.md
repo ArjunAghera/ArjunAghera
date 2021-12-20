@@ -11,7 +11,25 @@
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
-
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Java"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        mobileApp: ["Android App"],
+        frontEnd: {
+            js: ["Reactjs", "Nextjs"],
+            css: ["tailwindcss", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+        },
+        databases: ["mongo", "MySql", "postgresql"],
+        misc: ["Firebase"]
+    }
+};
+```
 
 <br>
 
