@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning  Type-script and Bloackchain Development.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science with minor specialization in Cyber Security.
 - 💼 &nbsp; MERN stack developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Blockchain.
