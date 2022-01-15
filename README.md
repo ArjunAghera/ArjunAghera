@@ -16,7 +16,7 @@
 ```javascript
 const arjun = {
     code: ["Javascript", "Typescript", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         frontEnd: {
             js: ["Reactjs", "Nextjs"],
